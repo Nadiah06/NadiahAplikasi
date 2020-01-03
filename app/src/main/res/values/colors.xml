@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="DarkPurple">#5D1049</color>
+    <color name="darkPurpleTwo">#4E0D3A</color>
+    <color name="Purple">#720D5D</color>
+    <color name="Purple2">#720D</color>
+    <color name="merah">#E30425</color>
+    <color name="merahMuda">#c6a195</color>
+    <color name="ghostWhite">#F8F8FF</color>
+    <color name="seaSell">#FFF5EE</color>
+    <color name="abu">#CCCCCC</color>
+    <color name="abuabu">#f0f2f5</color>
+
+</resources>
